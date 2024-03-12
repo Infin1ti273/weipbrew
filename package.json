@@ -1,6 +1,6 @@
 {
   "name": "weipbrew",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": "https://github.com/Infin1ti273/weipbrew",
   "description": "A project that can brew",
   "main": "index.js",
